@@ -27,7 +27,7 @@
 
 ## Диаграмма вариантов использования (Use Case)
 
-![Use Case Диаграмма](usecase.png)
+![Use Case Диаграмма](usecase1.png)
 
 ---
 
